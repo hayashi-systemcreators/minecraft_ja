@@ -7,7 +7,22 @@
     },
     "files": [
         "README.md",
-        "Computing Unit 1.ja_JP/computing/unit-1/lesson-1.md"
+        "Computing-Unit-1.ja_JP/computing/unit-1/lesson-1.md",
+        "Computing-Unit-1.ja_JP/computing/unit-1/lesson-2.md",
+        "Computing-Unit-1.ja_JP/computing/unit-1/lesson-3.md",
+        "Computing-Unit-1.ja_JP/computing/unit-2/lesson-1.md",
+        "Computing-Unit-1.ja_JP/computing/unit-2/lesson-2.md",
+        "Computing-Unit-1.ja_JP/computing/unit-2/lesson-3.md",
+        "Computing-Unit-1.ja_JP/computing/unit-3/lesson-1.md",
+        "Computing-Unit-1.ja_JP/computing/unit-3/lesson-2.md",
+        "Computing-Unit-1.ja_JP/computing/unit-3/lesson-3.md",
+        "Computing-Unit-1.ja_JP/computing/unit-4/lesson-1.md",
+        "Computing-Unit-1.ja_JP/computing/unit-4/lesson-2.md",
+        "Computing-Unit-1.ja_JP/computing/unit-4/lesson-3.md",
+        "Computing-Unit-1.ja_JP/computing/unit-5/lesson-1.md",
+        "Computing-Unit-1.ja_JP/computing/unit-5/lesson-2.md",
+        "Computing-Unit-1.ja_JP/computing/unit-5/lesson-3.md",
+        "Computing-Unit-1.ja_JP/no_coding.md"
     ],
     "targetVersions": {
         "target": "1.6.8",
